@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>pacman and ghost</title>
+</head>
+<body>
+<h1>the pac-man and ghost</h1>
+<canvas id="pacman" width="400" height="400"></canvas>
+	<canvas id="pacman2" width="400" height="400"></canvas>
+<!--<h1>the mass newton</h1>
+<canvas id="pacman3" width="400" height="400"></canvas>-->
+<script src="animation2.js"></script>
+<!--<script src="renderhtml.js"></script>-->
+<style>
+canvas {
+      background-color : black;
+}
+body {
+  text-align : center;
+  font-family : algerian;
+}
+
+</style>
+</body>
+</html>
